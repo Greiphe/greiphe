@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/99847920/194890230-fc68a8d3-342f-439b-932e-ea669a7b275b.png" width="260px" height="150px" />
+  <img src="https://github.com/user-attachments/assets/9416d26b-c906-4dec-bab7-b235528fa3b7" width="260px" height="260px" />
 
   
 </div>
@@ -24,19 +24,8 @@
   
 ##
 
-<h3> Coisas que eu gosto de fazer 😊 </h3>
-  
-* Ouvir Musicas
-* Jogar
-* Desenhar 
-* Criar novas coisas
-* Novos Desafios
-  
-##
-
 <h3> Redes Sociais 👥 </h3>
-  <a href="https://www.instagram.com/greife_ofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href="https://discord.gg/H99UvKZJ" target="_blank"><img src="https://img.shields.io/badge/- Discord -7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
   <a href = "mailto:contatogreifera.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/greiph-silva-1b548921a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
@@ -47,9 +36,7 @@
  
  <h3> Sobre mim 🧐 </h3> 
  
-Olá estou desenvolvendo a minha carreira como Front End & UX e UI, sou muito criativo e um olho muito bom para cores usando a psicologia das cores, está ai os meus desenhos realistas que não deixam mentir e projetos criados, um apaixonado por tecnologia e interação com o usuário.
-
-Tenho uma boa comunicação, leitura corporal e comportamental das pessoas, gosto de desfios e resolver problemas, "colocar a cara a tapa", sempre dou o meu máximo com tudo o que vem a minha mão para fazer isso é um pouco do meu eu, agora eu estou curioso para te conhecer melhor.
+Eu sou Front End Developer, fiz trabalhos com, Web Designer, Sites e Sistemas programados, Projetos colaborativos e academicos relacionados a programação, Agora estou mudando de área de trabalho peguei todos os conhecimentos que tive e estou construindo uma carreira profissional UX/UI Designer
   
 <div>
 
